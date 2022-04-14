@@ -33,5 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-  
+   <h1> Please follow the page
+   <a href="https://www.gmail.com/">Visit gmail.com!</a> 
 </form>
